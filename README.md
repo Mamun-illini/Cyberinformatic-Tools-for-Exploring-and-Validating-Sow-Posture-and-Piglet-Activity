@@ -23,10 +23,12 @@ Conference Paper:
 Posters: 
 1. "Deep Learning Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta
+
    CDA Conference 2024
    
-2. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
+3. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta
+
    2nd Annual NCSA Student Research Conference 2024
 
 
