@@ -67,8 +67,8 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Principal Investigators:**
 
 •	Yeyin Shi (Project Director), yshi18@unl.edu
-•	Tami Brown-Brandl (Co-Project Director)
-•	Isabella Condotta (Co-Project Director)
+•	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+•	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
 
 **Performing Department:**
 
@@ -81,6 +81,10 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 •	Project End Date: 03/14/2025
 
 **Contact Information:** 
-For more information, please contact Yeyin Shi at **yshi18@unl.edu.**
+For more information, please contact 
 
-
+•	Yeyin Shi (Project Director), yshi18@unl.edu
+•	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+•	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
+•  Md Towfiqur Rahman (Grad Student), mrahman8@huskers.unl.edu, https://www.linkedin.com/in/towfiqur-rahman-118a5799/
+•  Mamunur Rahman (Grad Student), mamunur2@illinois.edu, https://www.linkedin.com/in/mamun-illini/
