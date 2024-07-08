@@ -12,86 +12,64 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Key Accomplishments:**
 
 •	Developed statistical model for factors that affect pre-weaning mortality and machine learning algorithm to predict.
-
 •  Developed deep learning models for automatic sow posture and piglet activity classification using the YOLOv8 algorithm (Both depth image and RGB image).
-
 •	Achieved high accuracy in detecting and classifying sow postures and nursing events.
-
 •	Preliminary results show correlations between behavioral phenotypes and pre-weaning mortality rates.
 
 **Publications:**
 
 1. "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
-
    Rahman, M. T., Brown-Brandl, T. M., Rohrer, G. A., Sharma, S. R., Manthena, V., & Shi, Y. (2023).
-
    https://doi.org/10.1093/tas/txad117
  
 **Conference Papers:**
 
 1. "Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
-
    Ferziger, S. S., Condotta, I. C. F. S., Brown-Brandl, T. M., Shi, Y., & Rohrer, G. A. (2023).
-
    [doi:10.13031/aim.202300833](https://doi.org/10.13031/aim.202300833)
    
 **Posters:**
 
 1. "Deep Learning Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
-
    M. Rahman, I. G. B Lima, L. Benicio, I. C. F. S Condotta.
-   
-   CDA Conference 2024.
+      CDA Conference 2024.
    
 3. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
-
    M. Rahman, I. G. B Lima, L. Benicio, I. C. F. S Condotta.
-
    2nd Annual NCSA Student Research Conference 2024.
 
 
 **Presentations:**
 
 1. "Computer Vision Approach for Reducing Piglet Crushing and Improving Pre-Weaning Mortality"
-   
-   M. Rahman (2023).
-   
-   Higher Education Challenge (HEC) Conference, Sioux Falls, South Dakota.
+    M. Rahman (2023).
+    Higher Education Challenge (HEC) Conference, Sioux Falls, South Dakota.
    
 
 **Availability:**
-
 •	A subset of the dataset and video demonstrations of our models will be uploaded here.
 
-
 **Funding and Support:**
-
 •	Project No.: NEB-21-184
-
 •	Funding Source: USDA NIFA, Grant No. 2021-67015-34413
 
 **Principal Investigators:**
 
 •	Yeyin Shi (Project Director), yshi18@unl.edu
-
 •	Tami Brown-Brandl (Co-Project Director)
-
 •	Isabella Condotta (Co-Project Director)
 
 **Performing Department:**
 
 •	Department of Biological Systems Engineering, College of Agriculture and Natural Resources, University of Nebraska-Lincoln, Lincoln, Nebraska
-
 •	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
 
 **Important Dates:**
 
 •	Project Start Date: 03/15/2021
-
 •	Project End Date: 03/14/2025
 
 **Contact Information:** 
-
 For more information, please contact Yeyin Shi at **yshi18@unl.edu.**
 
 
