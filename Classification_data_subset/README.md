@@ -3,3 +3,105 @@
 This repository contains a dataset of images for training and validating a classification model. The dataset is organized into two main folders: Train and Val. Each of these folders contains 12 subfolders, corresponding to different classes.
 
 
+**Folder Structure**
+
+- Train/
+  - Lying_Left_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Lying_Left_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Lying_Right_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Lying_Right_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Sitting_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Sitting_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Standing_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Standing_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Sternal_Lying_Partially_Left_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Sternal_Lying_Partially_Left_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Sternal_Lying_Partially_Right_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+  - Sternal_Lying_Partially_Right_Nursing/
+    - image1.jpg
+    - image2.jpg
+    - ...
+    - image8.jpg
+
+- Val/
+  - Lying_Left_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Lying_Left_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Lying_Right_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Lying_Right_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Sitting_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Sitting_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Standing_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Standing_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Sternal_Lying_Partially_Left_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Sternal_Lying_Partially_Left_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Sternal_Lying_Partially_Right_Not_Nursing/
+    - image1.jpg
+    - image2.jpg
+  - Sternal_Lying_Partially_Right_Nursing/
+    - image1.jpg
+    - image2.jpg
+
