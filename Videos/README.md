@@ -2,7 +2,7 @@
 
 This project demonstrates the use of a segmentation model to predict and track sows and piglets within a farrowing crate. The folder includes two videos showcasing the model's performance.
 
-**Videos**
+**Videos:**
 
 Video 1: Demonstrates the initial predictions of sows and piglets using segmentation model.
 
