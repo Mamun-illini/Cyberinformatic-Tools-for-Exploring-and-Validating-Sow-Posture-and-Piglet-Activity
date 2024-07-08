@@ -85,6 +85,7 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 •	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
 
 **Important Dates:**
+
 •	Project Start Date: 03/15/2021
 
 •	Project End Date: 03/14/2025
