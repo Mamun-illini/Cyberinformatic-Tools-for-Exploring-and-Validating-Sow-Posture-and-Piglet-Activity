@@ -15,7 +15,7 @@ Publications:
 1. Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets.
    https://doi.org/10.1093/tas/txad117
 3. Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates.
-   doi:10.13031/aim.202300833
+   [doi:10.13031/aim.202300833](https://doi.org/10.13031/aim.202300833)
    
 Conference Paper:
 Posters: 
