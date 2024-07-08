@@ -1,4 +1,4 @@
-# FACT-AI-Cyberinformatic-Tools-for-Exploring-and-Validating-Sow-Posture-and-Piglet-Activity
+# Cyberinformatic-Tools-for-Exploring-and-Validating-Sow-Posture-and-Piglet-Activity
 **Summary:** 
 
 This project, funded by the United States Department of Agriculture (USDA)- National Institute of Food and Agriculture (NIFA), aims to develop and deploy cyberinfrastructure tools for the automatic identification and analysis of sow posture and piglet activity. Our primary goals include reducing pre-weaning mortality caused by sows crushing their piglets and understanding the maternal behaviors associated with piglet survival.
