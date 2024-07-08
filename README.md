@@ -12,8 +12,11 @@ This project, funded by the United States Department of Agriculture (USDA), aims
 **Key Accomplishments:**
 
 •	Developed statistical model for factors that affect pre-weaning mortality and machine learning algorithm to predict.
+
 •  Developed deep learning models for automatic sow posture and piglet activity classification using the YOLOv8 algorithm (Both depth image and RGB image).
+
 •	Achieved high accuracy in detecting and classifying sow postures and nursing events.
+
 •	Preliminary results show correlations between behavioral phenotypes and pre-weaning mortality rates.
 
 **Publications:**
