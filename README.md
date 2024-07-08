@@ -61,10 +61,13 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
    Paper number: 2200581. ASABE Annual International Meeting 2022, Houston, Texas, July 17 – 20, 2022
 
 **Availability:**
+
 •	A subset of the dataset and video demonstrations of our models will be uploaded here.
 
 **Funding and Support:**
+
 •	Project No.: NEB-21-184
+
 •	Funding Source: USDA NIFA, Grant No. 2021-67015-34413
 
 **Principal Investigators:**
