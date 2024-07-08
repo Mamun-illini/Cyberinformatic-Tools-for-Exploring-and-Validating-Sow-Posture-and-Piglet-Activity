@@ -1,4 +1,4 @@
-# Image Classification Dataset
+# Nursing Behavior Classification Dataset
 
 This repository contains a small dataset of images for training and validating a classification model to detect nursing behavior of sow within farrowing crate. The dataset is organized into two main folders: Train and Val. Each of these folders contains 12 subfolders, corresponding to different classes.
 
