@@ -11,31 +11,31 @@
 • Developed deep learning models for automatic sow posture and piglet activity classification using the YOLOv8 algorithm (Both depth image and RGB image).
 •	Achieved high accuracy in detecting and classifying sow postures and nursing events.
 •	Preliminary results show correlations between behavioral phenotypes and pre-weaning mortality rates.
-Publications:
+**Publications:**
 1. "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
 
    https://doi.org/10.1093/tas/txad117
  
 **Conference Paper:**
-"Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
+1. "Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
 
    [doi:10.13031/aim.202300833](https://doi.org/10.13031/aim.202300833)
    
-**Posters: **
+**Posters:**
 1. "Deep Learning Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
 
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta
 
    CDA Conference 2024
    
-3. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
+2. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
 
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta
 
    2nd Annual NCSA Student Research Conference 2024
 
 
-**Presentations: **
+**Presentations:**
 1. "Computer Vision Approach for Reducing Piglet Crushing and Improving Pre-Weaning Mortality"
    M. Rahman
    Higher Education Challenge (HEC) Conference, Sioux Falls, South Dakota.
