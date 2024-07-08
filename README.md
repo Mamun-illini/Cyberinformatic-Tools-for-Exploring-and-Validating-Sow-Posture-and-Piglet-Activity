@@ -5,9 +5,9 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 
 **Objectives:**
 
-1.	Data Curation: Establish a cloud-based server to curate sow and piglet behavioral data, including sequential imagery and production records.
-2.	Machine Learning Models: Develop and evaluate machine learning models for automatically identifying and quantifying time-series behavioral phenotypes from image data.
-3.	Mothering Ability Index (MAI): Create an index to classify a sow's ability to successfully raise a litter based on identified behavioral phenotypes and production records.
+1.	**Data Curation:** Establish a cloud-based server to curate sow and piglet behavioral data, including sequential imagery and production records.
+2.	**Machine Learning Models:** Develop and evaluate machine learning models for automatically identifying and quantifying time-series behavioral phenotypes from image data.
+3.	**Mothering Ability Index (MAI):** Create an index to classify a sow's ability to successfully raise a litter based on identified behavioral phenotypes and production records.
 
 **Key Accomplishments:**
 
