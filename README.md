@@ -15,12 +15,13 @@ Publications:
 1. "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
 
    https://doi.org/10.1093/tas/txad117
-3. "Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
+ 
+**Conference Paper:**
+"Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
 
    [doi:10.13031/aim.202300833](https://doi.org/10.13031/aim.202300833)
    
-Conference Paper:
-Posters: 
+**Posters: **
 1. "Deep Learning Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
 
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta
@@ -34,7 +35,7 @@ Posters:
    2nd Annual NCSA Student Research Conference 2024
 
 
-Presentations: 
+**Presentations: **
 1. "Computer Vision Approach for Reducing Piglet Crushing and Improving Pre-Weaning Mortality"
    M. Rahman
    Higher Education Challenge (HEC) Conference, Sioux Falls, South Dakota.
