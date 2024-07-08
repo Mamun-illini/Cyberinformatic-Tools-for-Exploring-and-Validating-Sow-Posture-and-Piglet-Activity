@@ -22,11 +22,15 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
    Rahman, M. T., Brown-Brandl, T. M., Rohrer, G. A., Sharma, S. R., Manthena, V., & Shi, Y. (2023).
    https://doi.org/10.1093/tas/txad117
  
-**Conference Papers:**
+**Conference:**
 
 1. "Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
    Ferziger, S. S., Condotta, I. C. F. S., Brown-Brandl, T. M., Shi, Y., & Rohrer, G. A. (2023).
    [doi:10.13031/aim.202300833](https://doi.org/10.13031/aim.202300833)
+
+2. "Posture classification of lactating sows using convolutional neural network and depth images",
+   M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, S.R. Sharma, Y. Shi (2023)
+   Paper number: 2300970. ASABE Annual International Meeting 2023, Omaha, Nebraska
    
 **Posters:**
 
@@ -34,7 +38,7 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
    M. Rahman, I. G. B Lima, L. Benicio, I. C. F. S Condotta.
       CDA Conference 2024.
    
-3. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
+2. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
    M. Rahman, I. G. B Lima, L. Benicio, I. C. F. S Condotta.
    2nd Annual NCSA Student Research Conference 2024.
 
@@ -45,6 +49,13 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
     M. Rahman (2023).
     Higher Education Challenge (HEC) Conference, Sioux Falls, South Dakota.
    
+2. "Predicting sow postures using deep learning and 3D images"
+   M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, S.R. Sharma, Y. Shi (2023)
+   VII International Precision Ambience Workshop, from November 8 to 10, 2023, Sao Paulo, Brazil.
+
+3. "Factors affecting pre-weaning mortality of piglets"
+   M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, Y. Shi, S.R. Sharma, V. Manthena (2022)
+   Paper number: 2200581. ASABE Annual International Meeting 2022, Houston, Texas, July 17 – 20, 2022
 
 **Availability:**
 •	A subset of the dataset and video demonstrations of our models will be uploaded here.
