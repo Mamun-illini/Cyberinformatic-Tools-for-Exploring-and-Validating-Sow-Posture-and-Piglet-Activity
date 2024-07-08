@@ -31,13 +31,13 @@
 
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta.
    
-   CDA Conference 2024
+   CDA Conference 2024.
    
 3. "Computer Vision Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
 
    M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta.
 
-   2nd Annual NCSA Student Research Conference 2024
+   2nd Annual NCSA Student Research Conference 2024.
 
 
 **Presentations:**
