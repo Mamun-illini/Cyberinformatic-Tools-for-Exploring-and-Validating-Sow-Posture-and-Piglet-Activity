@@ -22,7 +22,7 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
    Rahman, M. T., Brown-Brandl, T. M., Rohrer, G. A., Sharma, S. R., Manthena, V., & Shi, Y. (2023).
    https://doi.org/10.1093/tas/txad117
  
-**Conference:**
+**Conferences:**
 
 1. "Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
    Ferziger, S. S., Condotta, I. C. F. S., Brown-Brandl, T. M., Shi, Y., & Rohrer, G. A. (2023).
