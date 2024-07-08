@@ -84,7 +84,8 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 •	Project End Date: 03/14/2025
 
 **Contact Information:** 
-For more information, please contact 
+
+For more information, please contact-
 
 •	Yeyin Shi (Project Director), yshi18@unl.edu
 
