@@ -67,12 +67,15 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Principal Investigators:**
 
 •	Yeyin Shi (Project Director), yshi18@unl.edu
+
 •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+
 •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
 
 **Performing Department:**
 
 •	Department of Biological Systems Engineering, College of Agriculture and Natural Resources, University of Nebraska-Lincoln, Lincoln, Nebraska
+
 •	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
 
 **Important Dates:**
@@ -84,7 +87,11 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 For more information, please contact 
 
 •	Yeyin Shi (Project Director), yshi18@unl.edu
+
 •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+
 •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
+
 •  Md Towfiqur Rahman (Grad Student), mrahman8@huskers.unl.edu, https://www.linkedin.com/in/towfiqur-rahman-118a5799/
+
 •  Mamunur Rahman (Grad Student), mamunur2@illinois.edu, https://www.linkedin.com/in/mamun-illini/
