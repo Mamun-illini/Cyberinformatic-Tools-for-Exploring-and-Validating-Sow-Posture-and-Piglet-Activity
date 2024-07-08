@@ -92,6 +92,6 @@ For more information, please contact
 
 •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
 
-•  Md Towfiqur Rahman (Grad Student), mrahman8@huskers.unl.edu, https://www.linkedin.com/in/towfiqur-rahman-118a5799/
+•  Md Towfiqur Rahman (Grad Student), mrahman8@huskers.unl.edu, LinkedIn: https://www.linkedin.com/in/towfiqur-rahman-118a5799/
 
-•  Mamunur Rahman (Grad Student), mamunur2@illinois.edu, https://www.linkedin.com/in/mamun-illini/
+•  Mamunur Rahman (Grad Student), mamunur2@illinois.edu, LinkedIn: https://www.linkedin.com/in/mamun-illini/
