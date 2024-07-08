@@ -42,7 +42,9 @@
 
 **Presentations:**
 1. "Computer Vision Approach for Reducing Piglet Crushing and Improving Pre-Weaning Mortality"
+   
    M. Rahman
+   
    Higher Education Challenge (HEC) Conference, Sioux Falls, South Dakota.
    
 
