@@ -29,7 +29,7 @@
 **Posters:**
 1. "Deep Learning Approach for Segmentation and Tracking of Sows and Piglets in Farrowing Crates"
 
-   M. Rahman, I.G.B Lima, L. Benicio, I.C.F.S Condotta.
+   M. Rahman, I. G. B Lima, L. Benicio, I. C. F. S Condotta.
    
    CDA Conference 2024.
    
