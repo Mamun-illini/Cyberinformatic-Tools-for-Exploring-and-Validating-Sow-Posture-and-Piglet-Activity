@@ -12,6 +12,20 @@
 •	Achieved high accuracy in detecting and classifying sow postures and nursing events.
 •	Preliminary results show correlations between behavioral phenotypes and pre-weaning mortality rates.
 Publications:
+1. Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets.
+   https://doi.org/10.1093/tas/txad117
+3. Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates.
+   doi:10.13031/aim.202300833
+   
+Conference Paper:
+Posters: 
+1.
+2. 
+3.
+Presentations: 
+
+
+
 
 **Availability:**
 •	A subset of the dataset and video demonstrations of our models will be uploaded here.
