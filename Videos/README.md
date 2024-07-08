@@ -4,7 +4,7 @@ This project demonstrates the use of a segmentation model to predict and track s
 
 **Videos**
 
-Video 1: Demonstrates the initial predictions and tracking of sows and piglets.
+Video 1: Demonstrates the initial predictions of sows and piglets using segmentation model.
 
 Video 2: Shows continuous tracking and segmentation, highlighting the model's ability to handle movement and interaction within the crate.
 
