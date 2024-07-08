@@ -17,7 +17,7 @@
 
    https://doi.org/10.1093/tas/txad117
  
-**Conference Paper:**
+**Conference Papers:**
 1. "Deep-learning-based behavioral time budgets for sows with high and low piglet mortality rates"
 
    [doi:10.13031/aim.202300833](https://doi.org/10.13031/aim.202300833)
