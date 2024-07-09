@@ -12,3 +12,6 @@ Library requirement: OpenCV (Version 4.9.0), NumPy (Version 1.23.3), Pandas (Ver
 **Instruction**
 Make sure you have the above platform and requirements.
 For Batch Processing of Depth images. RUN the code.py file. Make sure to change the directory (INPUT and OUTPUT).
+
+For example:
+The "Depth_image" folder has few example depth data with "txt" file. The "converted" folder is the output
