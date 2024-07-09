@@ -16,7 +16,6 @@ Video 2: Shows continuous tracking and segmentation, highlighting the model's ab
 
 
 
-https://github.com/Mamun-illini/Cyberinformatic-Tools-for-Exploring-and-Validating-Sow-Posture-and-Piglet-Activity/assets/123972009/68bb447b-3241-4e61-917e-a73567c50d0c
 
 
 
