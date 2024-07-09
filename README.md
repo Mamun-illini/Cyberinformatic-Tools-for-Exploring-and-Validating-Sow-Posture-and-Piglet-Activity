@@ -1,4 +1,6 @@
 # Cyberinformatic-Tools-for-Exploring-and-Validating-Sow-Posture-and-Piglet-Activity
+
+![Picture2](https://github.com/Mamun-illini/Cyberinformatic-Tools-for-Exploring-and-Validating-Sow-Posture-and-Piglet-Activity/assets/66333754/fd32bd2c-aa89-4beb-8e22-923567655867)
 **Summary:** 
 
 This project, funded by the United States Department of Agriculture (USDA)- National Institute of Food and Agriculture (NIFA), aims to develop and deploy cyberinfrastructure tools for the automatic identification and analysis of sow posture and piglet activity. Our primary goals include reducing pre-weaning mortality caused by sows crushing their piglets and understanding the maternal behaviors associated with piglet survival.
@@ -16,11 +18,15 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 •	Achieved high accuracy in detecting and classifying sow postures and nursing events.
 •	Preliminary results show correlations between behavioral phenotypes and pre-weaning mortality rates.
 
-**Publications:**
+**Publications**
 
-1. "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
+*   "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
    Rahman, M. T., Brown-Brandl, T. M., Rohrer, G. A., Sharma, S. R., Manthena, V., & Shi, Y. (2023).
    https://doi.org/10.1093/tas/txad117
+
+ **Manuscript in Preparation**
+ *   M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, Y. Shi, S.R. Sharma, Posture classification of lactating sows using convolutional neural network and depth images.
+   Computer and Electronics in Agriculture
  
 **Conferences:**
 
@@ -75,6 +81,7 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Performing Department:**
 
 •	Department of Biological Systems Engineering, College of Agriculture and Natural Resources, University of Nebraska-Lincoln, Lincoln, Nebraska
+
 •	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
 
 **Important Dates:**
@@ -98,6 +105,7 @@ For more information, please contact-
 
 
 **Acknowledgements:**
+
 
 
 This project is funded by the United States Department of Agriculture (USDA) National Institute of Food and Agriculture (NIFA) under Grant No. 2021-67015-34413. Data was collected from another project funded in part by USDA, Agricultural Research Service, and USDA NIFA Grant, Award No. 2016-67015-24819
