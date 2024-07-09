@@ -12,11 +12,8 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Key Accomplishments:**
 
 •	Developed statistical model for factors that affect pre-weaning mortality and machine learning algorithm to predict.
-
 •  Developed deep learning models for automatic sow posture and piglet activity classification using the YOLOv8 algorithm (Both depth image and RGB image).
-
 •	Achieved high accuracy in detecting and classifying sow postures and nursing events.
-
 •	Preliminary results show correlations between behavioral phenotypes and pre-weaning mortality rates.
 
 **Publications:**
@@ -67,21 +64,17 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Funding and Support:**
 
 •	Project No.: NEB-21-184
-
 •	Funding Source: USDA NIFA, Grant No. 2021-67015-34413
 
 **Principal Investigators:**
 
 •	Yeyin Shi (Project Director), yshi18@unl.edu
-
 •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
-
 •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
 
 **Performing Department:**
 
 •	Department of Biological Systems Engineering, College of Agriculture and Natural Resources, University of Nebraska-Lincoln, Lincoln, Nebraska
-
 •	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
 
 **Important Dates:**
@@ -92,13 +85,8 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 **Contact Information:** 
 
 For more information, please contact-
-
-•	Yeyin Shi (Project Director), yshi18@unl.edu
-
+•   Md Towfiqur Rahman (Graduate Student, Department of Biological Systems Engineering, University of Nebraska-Lincoln), mrahman8@huskers.unl.edu, LinkedIn: https://www.linkedin.com/in/towfiqur-rahman-118a5799/
+•   Mamunur Rahman (Graduate Student, Department of Animal Sciences; College of Agricultural, University of Illinois at Urbana-Champaign), mamunur2@illinois.edu, LinkedIn: https://www.linkedin.com/in/mamun-illini/
+•   Yeyin Shi (Project Director), yshi18@unl.edu
 •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
-
 •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
-
-•  Md Towfiqur Rahman (Grad Student), mrahman8@huskers.unl.edu, LinkedIn: https://www.linkedin.com/in/towfiqur-rahman-118a5799/
-
-•  Mamunur Rahman (Grad Student), mamunur2@illinois.edu, LinkedIn: https://www.linkedin.com/in/mamun-illini/
