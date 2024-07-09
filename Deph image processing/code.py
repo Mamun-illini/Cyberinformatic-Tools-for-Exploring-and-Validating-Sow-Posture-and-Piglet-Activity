@@ -1,8 +1,8 @@
-Prepared by Md Towfiqur Rahman
+#Prepared by Md Towfiqur Rahman
 
 
 
-#Colorizing depth imagestxt 
+#Colorizing depth images txt 
 #%%pip3 install opencv-python
 import cv2
 import numpy as np
