@@ -87,7 +87,11 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 For more information, please contact-
 
 •   Md Towfiqur Rahman (Graduate Student, Department of Biological Systems Engineering, University of Nebraska-Lincoln), mrahman8@huskers.unl.edu, LinkedIn: https://www.linkedin.com/in/towfiqur-rahman-118a5799/
+
 •   Mamunur Rahman (Graduate Student, Department of Animal Sciences; College of Agricultural, University of Illinois at Urbana-Champaign), mamunur2@illinois.edu, LinkedIn: https://www.linkedin.com/in/mamun-illini/
+
 •   Yeyin Shi (Project Director), yshi18@unl.edu
+
 •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+
 •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
