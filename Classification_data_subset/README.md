@@ -104,4 +104,8 @@ This repository contains a small dataset of images for training and validating a
   - Sternal_Lying_Partially_Right_Nursing/
     - image1.jpg
     - image2.jpg
-
+- Test_Images/
+    - image1.jpg
+    - image2.jpg
+    - image3.jpg
+    - image4.jpg
