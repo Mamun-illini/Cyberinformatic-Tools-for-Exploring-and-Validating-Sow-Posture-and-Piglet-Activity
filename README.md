@@ -23,18 +23,18 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 
 **Publications**
 
-*   "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
-   Rahman, M. T., Brown-Brandl, T. M., Rohrer, G. A., Sharma, S. R., Manthena, V., & Shi, Y. (2023).
-   https://doi.org/10.1093/tas/txad117
+* "Statistical and machine learning approaches to describe factors affecting preweaning mortality of piglets"
+  Rahman, M. T., Brown-Brandl, T. M., Rohrer, G. A., Sharma, S. R., Manthena, V., & Shi, Y. (2023).
+  https://doi.org/10.1093/tas/txad117
 
  **Manuscript in Preparation**
 
- * Posture classification of lactating sows using convolutional neural network and depth images. M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, Y. Shi, S.R. Sharma (2024)
+* Posture classification of lactating sows using convolutional neural network and depth images. M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, Y. Shi, S.R. Sharma (2024)
    Computer and Electronics in Agriculture
    
- * Computer vision approach to detect and track sows and piglets within farrowing crates. Rahman, M., Condotta, I. C. F. S., Brown-Brandl, T. M., Rohrer, G. A., & Shi, Y. (2024). Computers and Electronics in Agriculture.
+* Computer vision approach to detect and track sows and piglets within farrowing crates. Rahman, M., Condotta, I. C. F. S., Brown-Brandl, T. M., Rohrer, G. A., & Shi, Y. (2024). Computers and Electronics in Agriculture.
 
- * An automatic classifier for monitoring nursing behaviors of sows within farrowing crates. Rahman, M., Condotta, I. C. F. S., Brown-Brandl, T. M., Rohrer, G. A., & Shi, Y. (2024). Computers and Electronics in Agriculture.
+* An automatic classifier for monitoring nursing behaviors of sows within farrowing crates. Rahman, M., Condotta, I. C. F. S., Brown-Brandl, T. M., Rohrer, G. A., & Shi, Y. (2024). Computers and Electronics in Agriculture.
 
    
  
