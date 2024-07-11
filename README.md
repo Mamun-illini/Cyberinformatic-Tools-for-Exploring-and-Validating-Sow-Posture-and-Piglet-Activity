@@ -29,13 +29,13 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 
  **Manuscript in Preparation**
 
- * Posture classification of lactating sows using convolutional neural network and depth images.M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, Y. Shi, S.R. Sharma (2024)
+ * Posture classification of lactating sows using convolutional neural network and depth images. M.T. Rahman, T. M. Brown-Brandl, G.A. Rohrer, Y. Shi, S.R. Sharma (2024)
    Computer and Electronics in Agriculture
    
- * Computer Vision Approach to Detect and Track Sows and Piglets Within Farrowing Crates. Rahman, M; Condotta, I. C. F. S., T. M. Brown-Brandl, G.A. Rohrer, Y. Shi (2024).
+ * Computer vision approach to detect and track sows and piglets within farrowing crates. Rahman. M, Condotta, I. C. F. S., T. M. Brown-Brandl, G.A. Rohrer, Y. Shi (2024).
    Computers and Electronics in Agriculture.
 
- * An Automatic Classifier for Monitoring Nursing Behaviors of Sows Within Farrowing Crates. Rahman, M; Condotta, I. C. F. S., T. M. Brown-Brandl, G.A. Rohrer, Y. Shi (2024).
+ * An automatic classifier for monitoring nursing behaviors of sows within farrowing crates. Rahman. M, Condotta, I. C. F. S., T. M. Brown-Brandl, G.A. Rohrer, Y. Shi (2024).
    Computers and Electronics in Agriculture.
    
  
