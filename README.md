@@ -108,6 +108,7 @@ For more information, please contact-
 
 • Gary A. Rohrer: USDA-ARS, US Meat Animal Research Center, Clay Center, NE 68933, USA
    (management of genetic lines, selection of animals, overseeing facility, and management of the production data)
+   gary.rohrer@usda.gov
 
 **Acknowledgements:**
 
