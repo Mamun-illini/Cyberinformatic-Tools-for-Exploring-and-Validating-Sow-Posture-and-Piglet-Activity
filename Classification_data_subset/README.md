@@ -118,7 +118,7 @@ As an alternative, a code-free approach to training a classification model for l
 
 The interface of the website includes the following sections:
 - **Training Data**: Here, you can add image samples for each class by either uploading from your device or using a webcam. 
-- **Class 1 and Class 2**: These are the default classes where you can add your training and validation images.
+- **Class 1 and Class 2**: These are the default classes where you can add your training and validation images. More classes can be added by using "Add a class" option just below the Class 1 and Class 2.
 - **Training**: After adding sufficient samples, you can train your classifier.
 - **Input**: Options to test the model using images from your device, webcam, or other sources.
 - **Classifier**: You must train your classifier before it can be used to make predictions.
