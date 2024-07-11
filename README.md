@@ -70,10 +70,6 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 
    •	A subset of the dataset and video demonstrations of our models will be uploaded here.
 
-**Funding and Support:**
-
-   •	Project No.: NEB-21-184
-   •	Funding Source: USDA NIFA, Grant No. 2021-67015-34413
 
 **Principal Investigators:**
 
@@ -111,8 +107,6 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
    gary.rohrer@usda.gov
 
 **Acknowledgements:**
-
-
 
 This project is funded by the United States Department of Agriculture (USDA) National Institute of Food and Agriculture (NIFA) under Grant No. 2021-67015-34413. Data was collected from another project funded in part by USDA, Agricultural Research Service, and USDA NIFA Grant, Award No. 2016-67015-24819
 
