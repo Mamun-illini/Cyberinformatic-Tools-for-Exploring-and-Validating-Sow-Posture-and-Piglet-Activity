@@ -110,10 +110,20 @@ This repository contains a small dataset of images for training and validating a
     - image3.jpg
     - image4.jpg
 
-**Note:** To train the classification model, only the `Train` and `Val` folders are needed. The `Test_Images` folder contains 4 new images to check the model performance or to see how well the model detects the unseen images.
+**Note:** To effectively train the classification model, only the `Train` and `Val` folders are necessary. The `Test_Images` folder comprises four new images intended to evaluate the model's performance and its capability to detect previously unseen images.
 
-You can use the [Sow_Nursing_Behavior_Classification.ipynb](Sow_Nursing_Behavior_Classification.ipynb) Google Colab notebook to help in training the classification model using this dataset.
+To facilitate the training of the classification model using this dataset, you may utilize the [Sow_Nursing_Behavior_Classification.ipynb](Sow_Nursing_Behavior_Classification.ipynb) Google Colab notebook.
 
-For an alternative approach to training a classification model without writing code, you can use [this website](https://tm.gen-ai.fi/image/general) where you can simply upload the images and train the model. You can also test the model using the images from the `Test_Images` folder.
+As an alternative, a code-free approach to training a classification model for learning purpose is available through [this website](https://tm.gen-ai.fi/image/general). On this platform, you can simply upload your images and train the model. Upon entering the website, you will find options to add image samples under Class 1 and Class 2. You may add the names of the `Train` and `Val` folders and images respectively. Furthermore, the interface allows you to add more classes by clicking on the "Add a class" button. Additionally, you can assess the model's performance using the images from the `Test_Images` folder.
+
+The interface of the website includes the following sections:
+- **Training Data**: Here, you can add image samples for each class by either uploading from your device or using a webcam. 
+- **Class 1 and Class 2**: These are the default classes where you can add your training and validation images.
+- **Training**: After adding sufficient samples, you can train your classifier.
+- **Input**: Options to test the model using images from your device, webcam, or other sources.
+- **Classifier**: You must train your classifier before it can be used to make predictions.
+
+This user-friendly interface simplifies the process of creating and training a classification model without needing to write any code.
+
 
 
