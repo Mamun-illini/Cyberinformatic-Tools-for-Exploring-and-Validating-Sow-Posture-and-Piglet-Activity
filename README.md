@@ -68,45 +68,45 @@ This project, funded by the United States Department of Agriculture (USDA)- Nati
 
 **Availability:**
 
-•	A subset of the dataset and video demonstrations of our models will be uploaded here.
+   •	A subset of the dataset and video demonstrations of our models will be uploaded here.
 
 **Funding and Support:**
 
-•	Project No.: NEB-21-184
-•	Funding Source: USDA NIFA, Grant No. 2021-67015-34413
+   •	Project No.: NEB-21-184
+   •	Funding Source: USDA NIFA, Grant No. 2021-67015-34413
 
 **Principal Investigators:**
 
-•	Yeyin Shi (Project Director), yshi18@unl.edu
-•	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
-•	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
+   •	Yeyin Shi (Project Director), yshi18@unl.edu
+   •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+   •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
 
 **Performing Department:**
 
-•	Department of Biological Systems Engineering, College of Agriculture and Natural Resources, University of Nebraska-Lincoln, Lincoln, Nebraska
+   •	Department of Biological Systems Engineering, College of Agriculture and Natural Resources, University of Nebraska-Lincoln, Lincoln, Nebraska
 
-•	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
+   •	Department of Animal Sciences; College of Agricultural, Consumer and Environmental Sciences; University of Illinois at Urbana-Champaign, Illinois
 
 **Important Dates:**
 
-•	Project Start Date: 03/15/2021
-•	Project End Date: 03/14/2025
+   •	Project Start Date: 03/15/2021
+   •	Project End Date: 03/14/2025
 
 **Contact Information:** 
 
-For more information, please contact-
+   For more information, please contact-
 
-•   Md Towfiqur Rahman (Graduate Student, Department of Biological Systems Engineering, University of Nebraska-Lincoln), mrahman8@huskers.unl.edu, LinkedIn: https://www.linkedin.com/in/towfiqur-rahman-118a5799/
+   •   Md Towfiqur Rahman (Graduate Student, Department of Biological Systems Engineering, University of Nebraska-Lincoln), mrahman8@huskers.unl.edu, LinkedIn: https://www.linkedin.com/in/towfiqur-rahman-118a5799/
 
-•   Mamunur Rahman (Graduate Student, Department of Animal Sciences; College of Agricultural, University of Illinois at Urbana-Champaign), mamunur2@illinois.edu, LinkedIn: https://www.linkedin.com/in/mamun-illini/
+   •   Mamunur Rahman (Graduate Student, Department of Animal Sciences; College of Agricultural, University of Illinois at Urbana-Champaign), mamunur2@illinois.edu, LinkedIn: https://www.linkedin.com/in/mamun-illini/
 
-•   Yeyin Shi (Project Director), yshi18@unl.edu
+   •   Yeyin Shi (Project Director), yshi18@unl.edu
 
-•	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
+   •	Tami Brown-Brandl (Co-Project Director), tami.brownbrandl@unl.edu
 
-•	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
+   •	Isabella Condotta (Co-Project Director), icfsc@illinois.edu
 
-• Gary A. Rohrer: USDA-ARS, US Meat Animal Research Center, Clay Center, NE 68933, USA
+   • Gary A. Rohrer: USDA-ARS, US Meat Animal Research Center, Clay Center, NE 68933, USA
    (management of genetic lines, selection of animals, overseeing facility, and management of the production data)
    gary.rohrer@usda.gov
 
