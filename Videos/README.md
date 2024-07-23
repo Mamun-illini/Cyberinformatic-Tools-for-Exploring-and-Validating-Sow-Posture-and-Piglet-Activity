@@ -19,7 +19,7 @@ https://github.com/Mamun-illini/Cyberinformatic-Tools-for-Exploring-and-Validati
 
 https://github.com/user-attachments/assets/fe733c8d-f637-47b9-8424-983db7237fe4
 
-**Video 3:** Shows conitinuous predicting the nursing behavior of sow within the farrowing crate.
+**Video 3:** Shows conitinuous predicting the nursing behaviors of sow within the farrowing crate.
 
 
 These videos provide a visual understanding of the model's capabilities in a real-world setting, making it easier to observe and evaluate its performance.
